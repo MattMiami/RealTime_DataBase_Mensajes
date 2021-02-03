@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase_Java</string>
+    <string name="prefs_file">com.example.firebase_java.FILE</string>
+
+    <!-- RECURSOS TOOLBAR-->
+    <string name="toolbar_title">MATRIZ</string>
+    <string name="subtitle_toolbar">Music community</string>
+</resources>

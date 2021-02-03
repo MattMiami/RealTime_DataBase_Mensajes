@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250875153133",
+    "firebase_url": "https://fir-java-2021-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-java-2021",
+    "storage_bucket": "fir-java-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250875153133:android:ad5a9873080b6f57b21ae4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250875153133-t946dp0chibblmh0sr84bdqs5f09dht0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp2V1bCcxDlvN0GDAduYKjU_v-8cNO-mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250875153133-t946dp0chibblmh0sr84bdqs5f09dht0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
